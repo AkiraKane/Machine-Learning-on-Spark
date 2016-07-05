@@ -57,6 +57,30 @@ outliers or extreme values is to apply transformations, such as a logarithmic or
 </a>
 
 
+<a name="project4">
+## Classification
+</a>
+
+<a name="project5">
+## Regression
+</a>
+
+<a name="project6">
+## Clustering
+</a>
+
+<a name="project7">
+## Dimensionality Reduction
+</a>
+
+<a name="project8">
+## Advanced Text Processing
+</a>
+
+<a name="project9">
+## Real-time Streaming
+</a>
+
 
 
 
