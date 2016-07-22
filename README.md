@@ -55,7 +55,10 @@ outliers or extreme values is to apply transformations, such as a logarithmic or
 <a name="project3">
 ## Recommendation Engine
 </a>
-
+#### Type of recommendation models
+- Content-based filtering: Content-based methods try to use the content or attributes of an item, together with some notion of similarity between two pieces of content, to generate items similar to a given item. These attributes are often textual content (such as titles, names, tags, and other metadata attached to an item), or in the case of media, they could include other features of the item, such as attributes extracted from audio and video content.
+- Collaborative filtering: Collaborative filtering is a form of wisdom of the crowd approach where the set of preferences of many users with respect to items is used to generate estimated preferences of users for items with which they have not yet interacted. The idea behind this is the notion of similarity.
+- Explicit matrix factorization, Implicit matrix factorization
 
 <a name="project4">
 ## Classification
